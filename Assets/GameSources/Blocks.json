@@ -1,0 +1,171 @@
+{
+    "blockdata": [
+        {
+            "Name": "Air",
+            "Render": "0",
+            "Solid": "0",
+
+            "TIDBack": "0",
+            "TIDFront": "0",
+            "TIDTop": "0",
+            "TIDBottom": "0",
+            "TIDLeft": "0",
+            "TIDRight": "0",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        },
+        {
+            "Name": "Grass",
+            "Render": "1",
+            "Solid": "1",
+
+            "TIDBack": "0",
+            "TIDFront": "0",
+            "TIDTop": "2",
+            "TIDBottom": "1",
+            "TIDLeft": "0",
+            "TIDRight": "0",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        },
+        {
+            "Name": "Dirt",
+            "Render": "1",
+            "Solid": "1",
+
+            "TIDBack": "1",
+            "TIDFront": "1",
+            "TIDTop": "1",
+            "TIDBottom": "1",
+            "TIDLeft": "1",
+            "TIDRight": "1",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        },
+        {
+            "Name": "Stone",
+            "Render": "1",
+            "Solid": "1",
+
+            "TIDBack": "3",
+            "TIDFront": "3",
+            "TIDTop": "3",
+            "TIDBottom": "3",
+            "TIDLeft": "3",
+            "TIDRight": "3",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        },
+        {
+            "Name": "Bedrock",
+            "Render": "1",
+            "Solid": "1",
+
+            "TIDBack": "4",
+            "TIDFront": "4",
+            "TIDTop": "4",
+            "TIDBottom": "4",
+            "TIDLeft": "4",
+            "TIDRight": "4",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        },
+        {
+            "Name": "Lamp",
+            "Render": "1",
+            "Solid": "1",
+
+            "TIDBack": "6",
+            "TIDFront": "6",
+            "TIDTop": "6",
+            "TIDBottom": "6",
+            "TIDLeft": "6",
+            "TIDRight": "6",
+
+            "ExtraBlockData": [
+                { "Intertactable": "1" },
+                { "Active": "0" },
+                { "TIDBack": "5" },
+                { "TIDFront": "5" },
+                { "TIDTop": "5" },
+                { "TIDBottom": "5" },
+                { "TIDLeft": "5" },
+                { "TIDRight": "5" }
+            ]
+        },
+        {
+            "Name": "Water",
+            "Render": "1",
+            "Solid": "0",
+
+            "TIDBack": "7",
+            "TIDFront": "7",
+            "TIDTop": "7",
+            "TIDBottom": "7",
+            "TIDLeft": "7",
+            "TIDRight": "7",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        },
+        {
+            "Name": "Sand",
+            "Render": "1",
+            "Solid": "1",
+
+            "TIDBack": "8",
+            "TIDFront": "8",
+            "TIDTop": "8",
+            "TIDBottom": "8",
+            "TIDLeft": "8",
+            "TIDRight": "8",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        },
+        {
+            "Name": "Log",
+            "Render": "1",
+            "Solid": "1",
+
+            "TIDBack": "10",
+            "TIDFront": "10",
+            "TIDTop": "9",
+            "TIDBottom": "9",
+            "TIDLeft": "10",
+            "TIDRight": "10",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        },
+        {
+            "Name": "Leaves",
+            "Render": "1",
+            "Solid": "1",
+
+            "TIDBack": "11",
+            "TIDFront": "11",
+            "TIDTop": "11",
+            "TIDBottom": "11",
+            "TIDLeft": "11",
+            "TIDRight": "11",
+
+            "ExtraBlockData": [
+                { "None": "0" }
+            ]
+        }
+    ]
+}
